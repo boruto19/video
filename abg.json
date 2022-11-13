@@ -1,0 +1,114 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"NO",
+      "image":"https://archive.org/download/download_20221113/download.png",
+      "link":"https://play.google.com/store/apps/details?id="
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Jelita",
+      "image_url":"https://archive.org/download/vc8_20221113/vc8.PNG",
+      "video_url":"https://archive.org/download/vc8_20221113/vc8.mp4",
+      "voice_url":"https://archive.org/download/di-video-call-cewek/vc8.mp3"
+    },
+    {
+      "id":2,
+      "name":"Maria",
+      "image_url":"https://archive.org/download/vc8_20221113/vc7.PNG",
+      "video_url":"https://archive.org/download/vc8_20221113/vc7.mp4",
+      "voice_url":"https://archive.org/download/di-video-call-cewek/vc7.mp3"
+    },
+    {
+      "id":3,
+      "name":"Ratih",
+      "image_url":"https://archive.org/download/vc8_20221113/vc6.PNG",
+      "video_url":"https://archive.org/download/vc8_20221113/vc6.mp4",
+      "voice_url":"https://archive.org/download/di-video-call-cewek/vc6.mp3"
+    },
+    {
+      "id":4,
+      "name":"Kania",
+      "image_url":"https://archive.org/download/vc8_20221113/vc5.PNG",
+      "video_url":"https://archive.org/download/vc8_20221113/vc5.mp4",
+      "voice_url":"https://archive.org/download/di-video-call-cewek/vc5.mp3"
+    },
+    {
+      "id":5,
+      "name":"Kartika",
+      "image_url":"https://archive.org/download/vc8_20221113/vc4.PNG",
+      "video_url":"https://archive.org/download/vc8_20221113/vc4.mp4",
+      "voice_url":"https://archive.org/download/di-video-call-cewek/vc4.mp3"
+    },
+    {
+      "id":6,
+      "name":"Shania",
+      "image_url":"https://archive.org/download/vc8_20221113/vc3.PNG",
+      "video_url":"https://archive.org/download/vc8_20221113/vc3.mp4",
+      "voice_url":"https://archive.org/download/di-video-call-cewek/vc3.mp3"
+    },
+    {
+      "id":7,
+      "name":"Fathonah",
+      "image_url":"https://archive.org/download/vc8_20221113/vc2.PNG",
+      "video_url":"https://archive.org/download/vc8_20221113/vc2.mp4",
+      "voice_url":"https://archive.org/download/di-video-call-cewek/vc2.mp3"
+    },
+    {
+      "id":8,
+      "name":"Betania",
+      "image_url":"https://archive.org/download/vc8_20221113/vc1.PNG",
+      "video_url":"https://archive.org/download/vc8_20221113/vc1.mp4",
+      "voice_url":"https://archive.org/download/di-video-call-cewek/vc1.mp3"
+    },
+    {
+      "id":9,
+      "name":"Anggraini",
+      "image_url":"https://archive.org/download/vc8_20221113/mentahan%20vc%20sama%20cewek%20cantik.jpg",
+      "video_url":"https://archive.org/download/vc8_20221113/mentahan%20vc%20sama%20cewek%20cantik.mp4",
+      "voice_url":"https://archive.org/download/di-video-call-cewek/mentahan%20vc%20sama%20cewek%20cantik.mp3"
+    },
+    {
+      "id":10,
+      "name":"Mayasari",
+      "image_url":"https://archive.org/download/vc8_20221113/di%20video%20call%20cewek.jpg",
+      "video_url":"https://archive.org/download/vc8_20221113/di%20video%20call%20cewek.mp4",
+      "voice_url":"https://archive.org/download/di-video-call-cewek/di%20video%20call%20cewek.mp3"
+    }
+  ]
+
+}
